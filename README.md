@@ -1,5 +1,5 @@
 ### Hi there 👋
-My nathan is Nathan and I am a systems and software engineer at Bosch Rexroth. My background is in systems and control software, primarily for embedded devices. 
+My name is Nathan and I am a systems and software engineer at Bosch Rexroth. My background is in systems and control software, primarily for embedded devices. 
 
 - 🔭 I’m currently working on control software for off-highway vehicle control units based on Infineon TriCore hardware
 - 🌱 I’m currently learning modern C++ (C++14/17/20) to develop highly performant and optimized software
