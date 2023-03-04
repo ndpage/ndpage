@@ -3,7 +3,7 @@ I'm Nathan and I am a systems software engineer at Bosch. My background is embed
 
 - 🌱 Currently learning modern C++ and Qt to develop performant software for embedded devices
 - 🤝 I’m looking to collaborate on projects involving embedded software, embedded display software, audio/DSP sofware, and back-end software. 
-- 📫 How to reach me: linkedin.com/in/nathanpage2
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nathanpage2/)
 
 <!--
 **ndpage/ndpage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
