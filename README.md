@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Nathan and I am a systems software engineer at Bosch. My background is embedded systems and software development, primarily in automotive/off-highway industry. I love learning, cool tech, music, and spending time with my family. 👨‍👩‍👧‍👦 
 
-- 🌱 Currently learning modern C++ and Qt to develop performant software for embedded devices
-- 🤝 I’m looking to collaborate on projects involving embedded software, embedded display software, audio/DSP sofware, and back-end software. 
+- 🌱 Currently growing my software engineering skills
+- 🤝 I’m looking to collaborate on projects developing systems using C, C++, Rust, or similar technologies 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nathanpage2/)
 
 <!--
