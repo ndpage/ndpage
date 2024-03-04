@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nathan and I am a control systems engineer at Bosch and a graduate studen in Computer Science at Clemson University 🐅
+I'm Nathan and I am a control systems engineer at Bosch and a graduate student in Computer Science at Clemson University 🐅
 - 🌱 Currently growing my software engineering skills
 - 🤝 I’m looking to collaborate on projects developing systems software and AI/ML models
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nathanpage2/)
